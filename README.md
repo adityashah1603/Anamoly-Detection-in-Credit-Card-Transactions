@@ -1,10 +1,10 @@
-## Anamoly-Detection-in-Credit-Card-Transactions
+###### Anamoly-Detection-in-Credit-Card-Transactions
 This repository provides a comprehensive solution for credit card fraud detection using machine learning techniques. Detecting anomalies in credit card transactions is a critical task to ensure the security of financial transactions and protect users from fraudulent activities.
 
 ## Overview
 Credit card fraud detection involves identifying unusual patterns and outliers in transaction data that may indicate fraudulent behavior. This repository presents a machine learning-based approach to detect anomalies in credit card transactions.
 
-# Getting Started
+## Getting Started
 #Prerequisites
 Python 3.x
 Dependencies (install using pip install -r requirements.txt)
